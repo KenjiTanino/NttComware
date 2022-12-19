@@ -7,3 +7,5 @@ def on_change(change):
           result_dic['(1)']='不正解'
 w1.observe(on_change)
 display(w1)
+
+display(w2)
